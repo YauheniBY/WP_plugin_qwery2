@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qazproperty\n"
+"POT-Creation-Date: 2023-12-08 23:07+0300\n"
+"PO-Revision-Date: 2023-12-08 23:08+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/customePostType.php:78
+msgid "Price"
+msgstr "Цена"
+
+#: inc/customePostType.php:82
+msgid "Period"
+msgstr "Период"
+
+#: inc/customePostType.php:86 inc/customePostType.php:173
+#: inc/customePostType.php:183
+msgid "Type"
+msgstr "Тип недвижимости"
+
+#: inc/customePostType.php:88
+msgid "Select Type"
+msgstr "Выберите тип недвижимости"
+
+#: inc/customePostType.php:89
+msgid "For Sale"
+msgstr "Продажа"
+
+#: inc/customePostType.php:90
+msgid "For Rent"
+msgstr "Аренда"
+
+#: inc/customePostType.php:91
+msgid "Sold"
+msgstr "Продано"
+
+#: inc/customePostType.php:99
+msgid "Agent"
+msgstr "Агент"
+
+#: inc/customePostType.php:127
+msgid "Property"
+msgstr "Недвижимость"
+
+#: inc/customePostType.php:136
+msgid "Agents"
+msgstr "Агенты"
+
+#: inc/customePostType.php:142
+msgid "Locations"
+msgstr "Локации"
+
+#: inc/customePostType.php:143 inc/customePostType.php:153
+msgid "Location"
+msgstr "Локация"
+
+#: inc/customePostType.php:144
+msgid "Search Locations"
+msgstr "Поиск Локации"
+
+#: inc/customePostType.php:145
+msgid "All Locations"
+msgstr "Все Локации"
+
+#: inc/customePostType.php:146
+msgid "View Location"
+msgstr "Просмотр локации"
+
+#: inc/customePostType.php:147
+msgid "Parent Location"
+msgstr "Родительская локация"
+
+#: inc/customePostType.php:148
+msgid "Parent Location:"
+msgstr "Родительская локация:"
+
+#: inc/customePostType.php:149
+msgid "Edit Location"
+msgstr "Изменить локацию"
+
+#: inc/customePostType.php:150
+msgid "Update Location"
+msgstr "Обновить локацию"
+
+#: inc/customePostType.php:151
+msgid "Add New Location"
+msgstr "Добавить локацию"
+
+#: inc/customePostType.php:152
+msgid "New Location Name"
+msgstr "Название новой локации"
+
+#: inc/customePostType.php:154
+msgid "← Back to Location"
+msgstr "Назад к локации"
+
+#: inc/customePostType.php:172
+msgid "Types"
+msgstr "Типы"
+
+#: inc/customePostType.php:174
+msgid "Search Types"
+msgstr "Поиск типа"
+
+#: inc/customePostType.php:175
+msgid "All Types"
+msgstr "Все типы"
+
+#: inc/customePostType.php:176
+msgid "View Type"
+msgstr "Просмотреть тип"
+
+#: inc/customePostType.php:177
+msgid "Parent Type"
+msgstr "Родительский тип"
+
+#: inc/customePostType.php:178
+msgid "Parent Type:"
+msgstr "Родительский тип:"
+
+#: inc/customePostType.php:179
+msgid "Edit Type"
+msgstr "Изменить тип"
+
+#: inc/customePostType.php:180
+msgid "Update Type"
+msgstr "Обновить тип"
+
+#: inc/customePostType.php:181
+msgid "Add New Type"
+msgstr "Добавить новый тип"
+
+#: inc/customePostType.php:182
+msgid "New Type Name"
+msgstr "Название нового типа"
+
+#: inc/customePostType.php:184
+msgid "← Back to Type"
+msgstr "Вернуться к типам"

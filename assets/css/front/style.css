@@ -1,0 +1,65 @@
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper h2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.archive_property,
+.archive_agent {
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.property_info span {
+    display: block;
+}
+
+.archive_property article.property,
+.archive_property article.type-property,
+.archive_agent article.agent {
+    background-color: beige;
+    padding: 30px;
+    margin: 10px;
+    width: 30%;
+}
+
+.single_property article.property,
+.single_agent article.agent {
+    background-color: beige;
+    padding: 30px;
+}
+
+#add_property p {
+    margin-bottom: 20px;
+}
+
+#add_property label {
+    display: block;
+    font-weight: bold;
+}
+
+#add_property input,
+#add_property textarea,
+#add_property select {
+    width: 50%;
+}
+
+.list .property {
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 10px;
+}
+
+.wishlist_content {
+    display: block;
+    width: 100%;
+    padding-bottom: 30px;
+}
